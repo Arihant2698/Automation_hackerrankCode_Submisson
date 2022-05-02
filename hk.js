@@ -1,3 +1,6 @@
+/*
+Automation using promise,webscrapper
+*/
 const puppet = require("puppeteer");
 const codeObj = require("./codes");
 let page;
