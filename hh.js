@@ -1,4 +1,6 @@
-const puppeteer = require("puppeteer");
+/*
+Automation using async await,webscrapper
+*/const puppeteer = require("puppeteer");
 let page;
 const url = "https://www.hackerrank.com/auth/login";
 const email = "xamot46817@stvbz.com";
